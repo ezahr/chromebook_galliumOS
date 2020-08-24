@@ -1,6 +1,8 @@
 # chromebook_galliumOS
 
 
+![How To Get a Linux Desktop On Your Chromebook](https://www.youtube.com/watch?v=EsxmEHuf1r0)
+
 
 ![video Install Gallium Linux on Chromebook](https://www.youtube.com/watch?v=2FqK7PNa7Uo)
 
