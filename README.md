@@ -2,9 +2,9 @@
 
 
 
-![Install Gallium Linux on Chromebook](https://www.youtube.com/watch?v=2FqK7PNa7Uo)
+![video Install Gallium Linux on Chromebook](https://www.youtube.com/watch?v=2FqK7PNa7Uo)
 
-
+![video2 galliumOS](https://www.youtube.com/watch?v=rYYIQwG1vKk)
 
 ![galliumOS](./pictures/chromebook_galliumOS_00.png)
 ![galliumOS](./pictures/chromebook_galliumOS_01.png)
